@@ -1,0 +1,17 @@
+{
+  "uuid": "714763bc-8729-4452-9181-e85e6ce59577",
+  "shortName": "Bible Verse",
+  "longName": "Bible Verse",
+  "companyName": "Carl Edwards",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "verse": 1
+  },
+  "resources": {
+    "media": []
+  }
+}
